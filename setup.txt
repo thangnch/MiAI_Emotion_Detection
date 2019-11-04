@@ -1,0 +1,7 @@
+tensorflow==1.15.0
+keras
+matplotlib
+numpy
+pillow
+opencv-python
+pygame
